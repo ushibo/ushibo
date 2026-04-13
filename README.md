@@ -6,7 +6,7 @@
 
 Верю в простую вещь: **самый честный способ расти в разработчика — брать реальные задачи, довозить до продакшна и разбирать вслух**. Этим и занимаюсь — в своих проектах и в обучающем контенте.
 
-Один из проектов - [**brigade**](https://github.com/gigaexp/brigade): multi-agent pipeline для Claude Code. Coordinator + команда специализированных агентов (frontend, designer, nodejs, golang, devops), параллельное исполнение в git worktrees, fan-out review от пяти ревьюеров одновременно. Использую сам каждый день.
+Один из проектов - [**brigade**](https://github.com/gigaexp/brigade): multi-agent pipeline для Claude Code. Coordinator + команда специализированных агентов (frontend, designer, nodejs, golang, devops), параллельное исполнение в git worktrees, fan-out review от пяти ревьюеров одновременно.
 
 Все проекты: [**@gigaexp**](https://github.com/gigaexp) / «Гигабайты Опыта».
 
