@@ -1,13 +1,17 @@
 ### Привет 👋
 
-Я **Сергей Ахантьев** — tech lead, 15+ лет в IT.
+Я **Сергей Ахантьев** — 15+ лет в IT, tech lead.
 
-Делаю [**@gigaexp**](https://github.com/gigaexp) — open-source проекты под брендом «Гигабайты Опыта». Флагман — [**brigade**](https://github.com/gigaexp/brigade), multi-agent pipeline для Claude Code.
+Последние несколько лет занимаюсь внедрением AI-инструментов в реальную разработку: строю мультиагентные пайплайны под Claude Code, встраиваю их в процессы команд и довожу до продакшна, а не до демо. Пишу плагины, кастомные агенты, разбираю что работает в реальных проектах, а что — нет.
 
-Этот аккаунт — мой личный. Все коммиты идут отсюда; org выше — это витрина проектов.
+Верю в простую вещь: **самый честный способ расти в разработчика — брать реальные задачи, довозить до продакшна и разбирать вслух**. Этим и занимаюсь — в своих проектах и в обучающем контенте.
+
+Один из проектов — [**brigade**](https://github.com/gigaexp/brigade): multi-agent pipeline для Claude Code. Coordinator + команда специализированных агентов (frontend, designer, nodejs, golang, devops), параллельное исполнение в git worktrees, fan-out review от пяти ревьюеров одновременно. Использую сам каждый день.
+
+Все проекты — под брендом [**@gigaexp**](https://github.com/gigaexp) / «Гигабайты Опыта».
 
 ---
 
 - 🌐 [gigaexp.ru](https://gigaexp.ru)
-- 📺 YouTube — [@gigaxptv](https://www.youtube.com/@gigaxptv)
-- 💬 Telegram — [t.me/gigaexp](https://t.me/gigaexp)
+- 📺 [@gigaxptv](https://www.youtube.com/@gigaxptv) — YouTube
+- 💬 [t.me/gigaexp](https://t.me/gigaexp) — Telegram
